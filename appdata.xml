@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Sean Patterson <sean@bosson.design> -->
+<component type="desktop">
+    <id>com.github.PretzelJones.elC.desktop</id>
+    <metadata_license>CC0</metadata_license>
+    <name>elC</name>
+    <summary>The elementary OS Combobulator</summary>
+    <description>
+        <p>The elementary OS Combobulator designed to ease the use of elementary by installing commonly needed software and system configuration changes designed to make elementary OS a more pleasing experience.</p>
+    </description>
+    <custom>
+        <value key="x-appcenter-color-primary">#603461</value>
+        <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+        <value key="x-appcenter-suggested-price">5</value>
+    </custom>
+</component>
